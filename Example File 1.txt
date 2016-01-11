@@ -1,0 +1,2 @@
+Hello World!
+Here is file 1 of 2 for the "Hello EC2 and Git" assignment for CS290.
